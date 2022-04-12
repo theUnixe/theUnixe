@@ -59,7 +59,6 @@ https://user-images.githubusercontent.com/76448381/162447614-ebb09f3a-5d61-4475-
 
 
 
-[![the_unixe's github stats](https://github-readme-stats.vercel.app/api?username=the_unixe1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/theUnixe/github-readme-stats)
 
 
 
