@@ -45,9 +45,7 @@ https://user-images.githubusercontent.com/76448381/162447614-ebb09f3a-5d61-4475-
 
 
 
-?theme=radical
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=tehUnixe&theme=dark&show_icons=true)
 
 
 
