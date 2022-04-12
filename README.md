@@ -19,7 +19,9 @@
 
 - 📄 Know about my experiences [i am not perfect but i know my Creativity, Focused, Flexibility](i am not perfect but i know my Creativity, Focused, Flexibility)
 
-- ⚡ Fun fact **I have some hidden talents**
+ <a href="https://github.com/theglitchh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theglitchh&layout=compact&theme=github_dark" />
+</a>- ⚡ Fun fact **I have some hidden talents**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -57,13 +59,13 @@ https://user-images.githubusercontent.com/76448381/162447614-ebb09f3a-5d61-4475-
 <a href="https://github.com/theUnixe">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=theUnixe&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" alt="Rahul's github statistics" />
 </a>
- <a href="https://github.com/theUnixe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegUnixe&layout=compact&theme=github_dark" />
-</a>
+ 
   
 
 
-
+ <a href="https://github.com/theUnixe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theUnixe&layout=compact&theme=github_dark" />
+</a>
 
 
 
