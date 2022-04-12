@@ -60,12 +60,7 @@ https://user-images.githubusercontent.com/76448381/162447614-ebb09f3a-5d61-4475-
  <a href="https://github.com/theUnixe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegUnixe&layout=compact&theme=github_dark" />
 </a>
-  <a href="https://github.com/theUnixe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theUnixe&layout=compact&repo=theUnixe.github.io&theme=vue-dark" />
-</a> 
- <img src="dnd/dnd.gif" width="600" height="300" />
-
-
+  
 
 
 
