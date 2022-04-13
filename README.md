@@ -18,10 +18,7 @@
 - 📫 How to reach me **unixethe@gmail.com**
 
 - 📄 Know about my experiences [i am not perfect but i know my Creativity, Focused, Flexibility](i am not perfect but i know my Creativity, Focused, Flexibility)
-
- <a href="https://github.com/theglitchh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theglitchh&layout=compact&theme=github_dark" />
-</a>- ⚡ Fun fact **I have some hidden talents**
+ ⚡ Fun fact **I have some hidden talents**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
