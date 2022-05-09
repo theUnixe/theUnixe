@@ -64,10 +64,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theUnixe&layout=compact&theme=github_dark" />
 </a>
 
-<a href="https://github.com/theglitchh">
+<!-- <a href="https://github.com/theglitchh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theglitchh&layout=compact&theme=github_dark" />
 </a>-
-
+ -->
 
 
 
