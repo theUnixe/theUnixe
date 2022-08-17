@@ -19,6 +19,7 @@
 
 - 📄 Know about my experiences [i am not perfect but i know my Creativity, Focused, Flexibility](i am not perfect but i know my Creativity, Focused, Flexibility)
  ⚡ Fun fact **I have some hidden talents**
+ <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
