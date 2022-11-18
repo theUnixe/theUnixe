@@ -1,9 +1,7 @@
 # <h1 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Hello+I+'M+theUnixe"></h1> 
 
+<img src="https://pbs.twimg.com/profile_banners/397155039/1655197365/1080x360" alt="header image"/>
 
-
-
- <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
