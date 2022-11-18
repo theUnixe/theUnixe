@@ -2,12 +2,11 @@
 
 <img src="https://pbs.twimg.com/profile_banners/397155039/1655197365/1080x360" alt="header image"/>
 
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Marc Kruiß's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Marc-Kruiss&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@the_unixe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@the_unixe" height="30" width="40" /></a>
-<a href="https://instagram.com/the_unixe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_unixe" height="30" width="40" /></a>
-</p>
+
+
 
 
 
